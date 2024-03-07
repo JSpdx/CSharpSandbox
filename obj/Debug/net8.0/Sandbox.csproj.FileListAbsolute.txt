@@ -1,0 +1,14 @@
+/Users/jonshaw/Dev/csharp/Sandbox/bin/Debug/net8.0/Sandbox
+/Users/jonshaw/Dev/csharp/Sandbox/bin/Debug/net8.0/Sandbox.deps.json
+/Users/jonshaw/Dev/csharp/Sandbox/bin/Debug/net8.0/Sandbox.runtimeconfig.json
+/Users/jonshaw/Dev/csharp/Sandbox/bin/Debug/net8.0/Sandbox.dll
+/Users/jonshaw/Dev/csharp/Sandbox/bin/Debug/net8.0/Sandbox.pdb
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.AssemblyInfoInputs.cache
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.AssemblyInfo.cs
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.csproj.CoreCompileInputs.cache
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.dll
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/refint/Sandbox.dll
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.pdb
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.genruntimeconfig.cache
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/ref/Sandbox.dll
