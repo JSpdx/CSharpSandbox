@@ -1,21 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Dynamic;
 using Microsoft.VisualBasic;
+using Fruitstand;
 
-namespace Name
-{
-    
-}
-class FruitStand() {
-    
-}
+FruitStand myStand = new FruitStand();
 
-public class Banana() : Fruit{
-    public string name = "banana";
-}
-
-public interface Fruit {
-    public string name {get; set;}
-};
-
-FruitStand myStand = new FruitStand()
