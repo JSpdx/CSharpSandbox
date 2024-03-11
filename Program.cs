@@ -3,5 +3,11 @@ using System.Dynamic;
 using Microsoft.VisualBasic;
 using Sandbox;
 
-FruitStand myStand = new FruitStand();
+FruitPeeler peeler = new FruitPeeler();
+FruitStand myStand = new FruitStand(peeler);
+Banana banana1= new Banana();
+Console.WriteLine(banana1.name);
+myStand.PeelFruit(banana1);
+// Console.WriteLine(banana1.HasPeel());
+
 

@@ -1,7 +1,10 @@
 namespace Sandbox
 {
-    class FruitStand() {
-
+    class FruitStand(IFruitPeeler fruitPeeler) {
+        FruitPeeler fruitPeeler = (FruitPeeler)fruitPeeler;
+        public void PeelFruit(IPeelable fruit){
+            fruitPeeler.Peel(fruit);
+        }
     }
 
     public class Fruit {
@@ -9,12 +12,15 @@ namespace Sandbox
     };
 
     public interface IPeelable{
-        bool HasPeel{get; set;}
+        public bool HasPeel{get; set;}
     }
 
-    public class FruitPeeler(IPeelable fruit){
-        public void Peel(){
+    public class FruitPeeler() : IFruitPeeler{
+        public void Peel(IPeelable fruit){
             fruit.HasPeel = false;
         }
+    }
+    public interface IFruitPeeler{
+        void Peel(IPeelable peelable);
     }
 };
