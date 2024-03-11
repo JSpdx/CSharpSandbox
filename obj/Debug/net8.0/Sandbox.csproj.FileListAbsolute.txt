@@ -12,3 +12,4 @@
 /Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.pdb
 /Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.genruntimeconfig.cache
 /Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/ref/Sandbox.dll
+/Users/jonshaw/Dev/csharp/Sandbox/obj/Debug/net8.0/Sandbox.sourcelink.json
