@@ -8,6 +8,6 @@ FruitStand myStand = new FruitStand(peeler);
 Banana banana1= new Banana();
 Console.WriteLine(banana1.name);
 myStand.PeelFruit(banana1);
-// Console.WriteLine(banana1.HasPeel());
+Console.WriteLine("JFJJJJSJSDLDFJSDFLKSJDFLSKDJFLSDKJFSDFJLSDLFKJSDFLKSJDFLSDKFJ");
 
 
